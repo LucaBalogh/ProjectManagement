@@ -4,4 +4,3 @@ Aplicatia se ocupa de gestiunea activitatilor intr-un proiect. Implementeaza min
 
 Un scrum master sau un product owner poate adauga, modifica, sterge user stories echipei, putand decide cine sa fie responsabil pentru un anumit item.
 Un team member poate adauga/modifica un task; informatiile ce pot fi modificate sunt titlul sau descrierea.
-"# ProjectManagement" 
